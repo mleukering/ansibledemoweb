@@ -1,0 +1,3 @@
+{
+	"myip":"DEFAULTIP"
+}
